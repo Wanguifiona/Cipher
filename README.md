@@ -6,3 +6,6 @@ Fiona Wangui
 
 ##Contact
 fiona.maina@student.moringaschool.com
+
+###Technologies used
+* Java
