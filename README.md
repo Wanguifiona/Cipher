@@ -9,3 +9,10 @@ fiona.maina@student.moringaschool.com
 
 ###Technologies used
 * Java
+
+###Setup/Installation Requirements
+* git clone https://github.com/Wanguifiona/Ceasar-Cipher.git
+
+* cd/path/to/Caesar-Cipher/
+
+* Open with intellij IDEA
