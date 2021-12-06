@@ -3,3 +3,6 @@ A Caesar cipher is a type of substitution in which each letter is shifted a cert
 
 ##Author
 Fiona Wangui
+
+##Contact
+fiona.maina@student.moringaschool.com
